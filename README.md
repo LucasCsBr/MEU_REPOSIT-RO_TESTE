@@ -1,3 +1,4 @@
 # Meu repositório de Estudos - Git e Github
 
-## Objetivos :
+## Objetivo da Aula:
+Criar um repositório local e adiciona-lo ao nosso GitHub - remoto; Lucas[x]
